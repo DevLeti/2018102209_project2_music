@@ -1,4 +1,4 @@
-# 2018102209_project2_music
+# data_structure_music_project(2018102209_project2_music)
 
 term project of Data Structure, 2nd grade - 2nd semester
 
